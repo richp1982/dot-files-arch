@@ -121,3 +121,5 @@ alias update='sudo pacman -Syyu'
 alias x='exit'
 alias c='clear'
 
+#launch with neofetch
+neofetch
