@@ -116,8 +116,8 @@ source "$OSH"/oh-my-bash.sh
 # Example aliases
 # alias bashconfig="mate ~/.bashrc"
 # alias ohmybash="mate ~/.oh-my-bash"
-alias update ='sudo apt update && sudo apt upgrade'
-#alias update='sudo pacman -Syyu'
+#alias update ='sudo apt update && sudo apt upgrade'
+alias update='sudo pacman -Syyu'
 alias x='exit'
 alias c='clear'
 
